@@ -31,12 +31,12 @@
       "defaultValue": "West US",
       "allowedValues": [
         "West US",
-        "East US"
+        "East US 2"
               ],
               "metadata": {
                 "description": "Restricts choice to where premium is located in the US."
               }
-    }
+    },
     "windowsOSVersion": {
       "type": "string",
       "defaultValue": "2012-R2-Datacenter",
