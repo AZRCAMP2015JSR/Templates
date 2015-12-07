@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "jsrstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "AZcamp2015_jsr@outlook.com"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!012"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "jsr2246"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "SizeofDiskInGB": {
+      "value": "20"
     }
   }
 }
